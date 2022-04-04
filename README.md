@@ -1,1 +1,1 @@
-# Created a simple Modal Window UI compnent with the help of Javascript.
+# Created a simple Modal Window UI component with the help of Javascript.
